@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramodkumar17521
 - 👀 I’m interested in Java Backend Development (Spring) and Competitive Programming.
-- 🌱 I’m currently learning Java Spring Boot.
+- 🌱 I’m currently learning Java Spring.
 - 📫 Reach me at : mrpkji75@gmail.com
 
 <!---
